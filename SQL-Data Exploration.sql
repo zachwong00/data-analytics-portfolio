@@ -11,8 +11,8 @@ ORDER BY
   date
 
 
--- What are the likelihood of dying due to contracting Covid?
--- Exploring percentages for Total Cases vs Total Deaths
+/* What are the likelihood of dying due to contracting Covid?
+   Exploring percentages for Total Cases vs Total Deaths */
 SELECT 
   location,
   date,
@@ -26,8 +26,8 @@ ORDER BY
   location,
   date
 
--- What are the population percentages who got Covid19?
--- Look at Total Cases vs Population
+/* What are the population percentages who got Covid19?
+   Look at Total Cases vs Population */
 SELECT 
   location,
   date,
